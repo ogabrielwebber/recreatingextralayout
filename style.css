@@ -62,7 +62,7 @@ margin-bottom: 64px;
 
 #wave {
   position: static;
-  width: 1024px;
+  width: 100vw;
   height: 104px;
   bottom: 0px;
   margin-top: 40.83px;
